@@ -11,7 +11,10 @@
 .header .header__icon{
     font-size:20px;
     margin-left:20px;
-    cursor:pointer;
+    cursor:pointer;    
+}
+.header .fas.fa-cog{
+    color:red;
 }
 .header .header__header-column{
     display:flex;

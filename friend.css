@@ -26,6 +26,9 @@
     display:block;
     margin-bottom: 5px;
     font-weight: 600;
+    
+}
+#friend__name_btn{
     color: red;
 }
 .friend .friend__status,
